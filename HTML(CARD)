@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"> 
+        <title>Building the Prototype</title> 
+        <link rel="stylesheet" href="styles.css"> 
+    </head>
+    <body> 
+        <div id="container">
+            <h1>Clownfish</h1>
+            <h1>Marshall Pup</h1> 
+            <!-- photo credit: wikipedia.org, image taken by Ritik -->
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Clown_fish_in_the_Andaman_Coral_Reef.jpg/220px-Clown_fish_in_the_Andaman_Coral_Reef.jpg" id="animal-image" alt="Clown_fish"> 
+            <div id="card" class= "animal-info"> 
+                <p id="interesting-fact">s skin makes it immune to the fish-eating anemone</p>
+                <ul id="facts">
+                    <li> <span class="lab">Scientific Name</span>: Amphiprioninae </li>
+                    <li> <span class="lab">Average Length</span>: 11 centimeters </li>
+                    <li> <span class="lab">Average Lifespan</span>: 7 years </li>
+                    <li> <span class="lab">Habitat</span>: Tropical coral reefs </li> 
+                </ul> 
+               <p id="summary">Bright orange with three distinctive white bars, clown anemonefish are among the most recognizable of all reef-dwellers. They reach about 11 centimeters in length, and are named for the multicolored sea anemone in which they make their homes.
+              </p> 
+     </div>
+      </div>
+    </body>
+</html>
